@@ -3,7 +3,7 @@
 # Miles Matthias
 
 files=('/etc/bashrc' '/usr/share/vim/vimrc' '/Users/milesmatthias/.gitconfig')
-dirs=('/Users/milesmatthias/Projects' '/Users/milesmatthias/Movies/WeddingDVD' '/Users/milesmatthias/Pictures/iPhoto Library' '/Users/milesmatthias/Library/Application Support/Sublime Text 2')
+dirs=('/Users/milesmatthias/Projects' '/Users/milesmatthias/lib' '/Users/milesmatthias/Movies/WeddingDVD' '/Users/milesmatthias/Pictures/iPhoto Library' '/Users/milesmatthias/Library/Application Support/Sublime Text 2')
 
 rm -rf ~/remains_tmp
 mkdir ~/remains_tmp
